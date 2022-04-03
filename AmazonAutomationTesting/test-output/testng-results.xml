@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26093" started-at="2022-04-02T18:19:12 CEST" finished-at="2022-04-02T18:19:38 CEST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26093" started-at="2022-04-02T18:19:12 CEST" finished-at="2022-04-02T18:19:38 CEST">
+      <class name="main.Main">
+        <test-method status="PASS" signature="init()[pri:0, instance:main.Main@2f686d1f]" name="init" is-config="true" duration-ms="16680" started-at="2022-04-02T18:19:12 CEST" finished-at="2022-04-02T18:19:29 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="executeSmoketest_HomePage_SearchBar()[pri:1, instance:main.Main@2f686d1f]" name="executeSmoketest_HomePage_SearchBar" duration-ms="5237" started-at="2022-04-02T18:19:29 CEST" finished-at="2022-04-02T18:19:34 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSmoketest_HomePage_SearchBar -->
+        <test-method status="PASS" signature="executeSmoketest_HomePage_ToolBar()[pri:2, instance:main.Main@2f686d1f]" name="executeSmoketest_HomePage_ToolBar" duration-ms="2155" started-at="2022-04-02T18:19:34 CEST" finished-at="2022-04-02T18:19:36 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSmoketest_HomePage_ToolBar -->
+        <test-method status="PASS" signature="executeSmoketest_HomePage_ActionBar()[pri:3, instance:main.Main@2f686d1f]" name="executeSmoketest_HomePage_ActionBar" duration-ms="1957" started-at="2022-04-02T18:19:36 CEST" finished-at="2022-04-02T18:19:38 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- executeSmoketest_HomePage_ActionBar -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:main.Main@2f686d1f]" name="quit" is-config="true" duration-ms="859" started-at="2022-04-02T18:19:38 CEST" finished-at="2022-04-02T18:19:39 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- main.Main -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
